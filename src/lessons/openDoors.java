@@ -13,7 +13,6 @@ public class openDoors {
 				doors[j] = updateDoorStatus(doors[j]);
 				}
 			}
-			printDoorsStatus(doors);
 		}
 
 		printDoorsStatus(doors);
