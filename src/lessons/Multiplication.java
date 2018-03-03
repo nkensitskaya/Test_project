@@ -1,6 +1,6 @@
-package com.company;
+package lessons;
 
-public class Main {
+public class Multiplication {
 
     public static void main(String[] args) {
 
